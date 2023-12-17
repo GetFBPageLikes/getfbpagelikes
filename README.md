@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **GetFBPageLikes/getfbpagelikes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my band.
 - 📫 How to reach me: glikepages@gmail.com
 - 😄 Pronouns: Nouns that have lost their amateur status.
--->
+
