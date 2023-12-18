@@ -1,0 +1,78 @@
+/* style.css */
+body {
+    background-color: black;
+    color:            white;
+
+}
+
+div#menus {
+    clear: both;
+    height: 48;
+}
+
+/* This supposedly centers anything. */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+}
+
+/* Navigation Bar */
+.topnav {
+    background-color: #000;
+    overflow: hidden;
+    margin: auto;
+    position: fixed ;
+    top: 0;
+    left: 0;
+    right: 0;
+    float: left;
+}
+
+.topnav a {
+    font-family: sans-serif;
+    float: left; 
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 36px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.topnav a.active {
+    background-color: #40E0F0;
+    color: black;
+}
+
+/* Social media links bar */
+#socials {
+    float: right;
+    margin-top: 6;
+    margin-right: 6;
+}
+
+/* The contents div should be the root element of all output files. */
+div#contents {
+    padding-top: 0px;
+}
+
+p {
+    text-align: left;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+h1.blue {
+    color: #40E0F0;
+}
+
+/* Google map floating to the right. */
+iframe.map {
+    float: right;
+    padding-left: 12;
+}

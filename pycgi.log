@@ -1,0 +1,67 @@
+Log file pycgi.log initialized: 2023-12-17 15:14:14.617135
+Root element of page.html:
+
+<html lang="en">
+<head>
+<title></title>
+<meta charset="utf-8">
+<meta name="application-name" content="htmlizer">
+<meta name="author" content="">
+
+
+<meta name="generator" content="python3">
+<meta name="keywords" content="">
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+</head>
+<body>
+</body>
+</html>
+Root element of page.html with title tag:
+
+<html lang="en">
+<head>
+<title>HTMLizer</title>
+<meta charset="utf-8">
+<meta name="application-name" content="htmlizer">
+<meta name="author" content="">
+
+
+<meta name="generator" content="python3">
+<meta name="keywords" content="">
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+</head>
+<body>
+</body>
+</html>
+Searching for cp[FACEBOOK]["LINK"]...
+Searching for cp[TWITTER]["LINK"]...
+Searching for cp[YOUTUBE]["LINK"]...
+Searching for cp[INSTAGRAM]["LINK"]...
+Output element with navigation bar:
+
+<html lang="en">
+<head>
+<title>HTMLizer</title>
+<meta charset="utf-8">
+<meta name="application-name" content="htmlizer">
+<meta name="author" content="">
+
+
+<meta name="generator" content="python3">
+<meta name="keywords" content="">
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+</head>
+<body>
+<div id="menus">
+<div id="navbar" class="topnav"><div id="socials"><a href="http://www.facebook.com" id="facebook" target="_blank" title="Visit our Facebook page."><img src="facebook.png"></a></div>
+<a id="home" href="index.cgi?home" title="HTMLizer" class="active"><strong>Home</strong></a><a id="about" href="index.cgi?about" title="About this Web page."><strong>About</strong></a></div>
+<div id="socials"><a href="http://www.facebook.com" id="facebook" target="_blank" title="Visit our Facebook page."><img src="facebook.png"></a></div>
+</div></body>
+</html>
+Execution complete: 2023-12-17 15:14:14.830614

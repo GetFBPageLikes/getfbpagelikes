@@ -13,3 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: glikepages@gmail.com
 - 😄 Pronouns: Nouns that have lost their amateur status.
 
+## Problem:
+
+When I try to browse the 1900+ pages I like or follow on Facebook, the Web interface
+breaks for all practical purposes.
+
+## Solution:
+
+The simplest solution might be to (directly access that information)[https://developers.facebook.com/docs/graph-api/reference/user/likes/] through the Facebook
+API.
+
+Another solution could be to crawl the Web page that displays these.
