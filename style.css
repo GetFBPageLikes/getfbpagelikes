@@ -76,3 +76,23 @@ iframe.map {
     float: right;
     padding-left: 12;
 }
+
+ /* unvisited link */
+a:link {
+  color: cyan;
+}
+
+/* visited link */
+a:visited {
+  color: violet;
+}
+
+/* mouse over link */
+a:hover {
+  color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: green;
+} 
